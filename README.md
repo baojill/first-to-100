@@ -1,4 +1,4 @@
-# first-to-100
+# A Simple Multiplayer Dice Rolling Game
 
 ### Game rules:
 
